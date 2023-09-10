@@ -6,6 +6,8 @@
 
 This file provides essential information and instructions for using the Accident Dashboard created in Microsoft Excel. The Accident Dashboard is designed to help users visualize and analyze accident data effectively.
 
+
+
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
